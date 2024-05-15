@@ -1,3 +1,4 @@
 # DeepFace
 
-1. DeepFace.ipynb Deepface.ipynb
+1. DeepFace.ipynb - Old File
+Deepface.ipynb
