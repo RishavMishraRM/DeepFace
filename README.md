@@ -1,4 +1,3 @@
 # DeepFace
 
-DeepFace.ipynb
-Deepface.ipynb
+1. DeepFace.ipynb Deepface.ipynb
