@@ -4,6 +4,6 @@
 2. <a href = "https://github.com/RishavMishraRM/DeepFace/blob/main/Deepface.ipynb">Deepface.ipynb</a> - New File
    
 Data - 
-1. <>img1.jpg<>
+1. <a>img1.jpg</a>
 2. img2.jpg
 q   /a
