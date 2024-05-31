@@ -6,4 +6,3 @@
 Data - 
 1. <a>img1.jpg</a>
 2. img2.jpg
-q   /a
